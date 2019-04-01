@@ -24,6 +24,8 @@ npm run test
 ```
 npm run lint
 ```
+### 安装路由
+npm install vue-router
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
