@@ -47,3 +47,6 @@ git add fileName
 
 ### 把文件提交到仓库
 git commit -m "wrote a readme file"
+
+### 从远程仓库抓取数据
+git pull
