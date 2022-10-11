@@ -68,3 +68,6 @@ git merge <name>
 
 ### 删除分支
 git branch -d <name>
+
+### 
+git fetch
